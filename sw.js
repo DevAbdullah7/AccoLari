@@ -1,4 +1,4 @@
-const cacheName = 'azzanTime-v2'
+const cacheName = 'AccoLari-v0.1'
 const assets = [
     '/',
     '/index.html',
