@@ -1,4 +1,4 @@
-const cacheName = 'AccoLari-v0.2'
+const cacheName = 'AccoLari-v0.3'
 const assets = [
     '/',
     '/index.html',
