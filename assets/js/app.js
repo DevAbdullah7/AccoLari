@@ -1,7 +1,7 @@
 export const APP = {
     deferredInstall: null,
     SW: null,
-    cacheName: 'AccoLari-v0.2',
+    cacheName: 'AccoLari-v0.3',
     init() {
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('sw.js').then((registration) => {
